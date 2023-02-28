@@ -4,8 +4,12 @@ def main(n):
 
     Args:
         n (float): float
-
+    
     Returns:
         float: the value of the expression
     """
-    return
+    ans = 3 * pow(n+1, 2)
+    return ans
+
+
+print(main(3.5))
