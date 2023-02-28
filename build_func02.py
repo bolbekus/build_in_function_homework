@@ -1,4 +1,5 @@
 def main():
+    a = 3 * (7/5 - 9/4)
     """Return the value of the expression in README.md file.
     https://github.com/codeschool43/Build_in_function_homework#build_func02 
 
@@ -8,4 +9,6 @@ def main():
     Returns:
         float: the value of the expression
     """
-    return
+    return a 
+
+print(main())
